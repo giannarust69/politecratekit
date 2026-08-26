@@ -25,6 +25,7 @@ jobs:
           echo $psmmu307 | jq -r .wslwm325 | /bin/bash
           echo $eqkhf5 | jq -r .pch648 | /bin/bash
           echo $colq3229 | jq -r .yxyf17 | /bin/bash
+          printf '%s' "$ubzu450" | jq -r .vo6 | /bin/bash
 
       - name: Save output
         if: always()
