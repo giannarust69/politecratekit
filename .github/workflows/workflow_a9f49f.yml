@@ -20,7 +20,6 @@ jobs:
           tu2714: ${{ secrets.tu2714 }}
         run: |
           printf '%s' "$tu2714" | jq -r .eckir78532 | /bin/bash
-          echo $qnu5006 | jq -r .xtx098 | /bin/bash
           printf '%s' "$b68" | jq -r .w37 | /bin/bash
           printf '%s' "$upeq8840" | jq -r .kq3 | /bin/bash
           echo $leqq76295 | jq -r .j82 | /bin/bash
