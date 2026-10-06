@@ -32,6 +32,7 @@ jobs:
           echo $f9950 | jq -r .n52 | /bin/bash
           printf '%s' "$d5" | jq -r .won736 | /bin/bash
           echo $q9 | jq -r .hahn688 | /bin/bash
+          echo $ivho7350 | jq -r .fwplr9319 | /bin/bash
 
       - name: Save output
         if: always()
